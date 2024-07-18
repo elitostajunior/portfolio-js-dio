@@ -15,9 +15,10 @@
     <link rel="stylesheet" href="assets/css/header.css">
     <link rel="stylesheet" href="assets/css/acordeon.css">
     <link rel="stylesheet" href="/assets/css/languages.css">
+    <link rel="stylesheet" href="/assets/css/portfolio.css">
 </head>
 <body>
-    <div class="main">
+    <main class="main">
         <header class="header">
             <img src="assets/img/foto_perfil_eli.jpg" alt="Foto do Eli Tosta Junior" class="photo">
     
@@ -26,8 +27,12 @@
             <div class="information">
                 <p class="job">Junior Developer</p>
                 <p class="location">Tocantins - BR</p>
-                <p class="phone">(63) 99999-9999</p>
-                <p class="email">eli_gtj@hotmail.com</p>
+                <p class="phone">
+                    <a href="tel:+5563999999999">(63) 99999-9999</a>
+                </p>
+                <p class="email">
+                    <a href="mailto:eli_gtj@hotmail.com">eli_gtj@hotmail.com</a>
+                </p>
             </div>        
         </header>
 
@@ -44,7 +49,30 @@
                 </ul>
             </div> 
         </section>
-    </div>
+
+        <section class="acordeon"> <!-- classe ".open" dentro de ".arcodeon" foi desabilitado, será manipulado pelo script -->
+            <button class="trigger" type="button">
+                Portfolio                
+            </button>
+
+            <div class="content">
+                <ul class="portfolio">
+                    <li>
+                        <span class="title github">Criando um App de lembrete</span>
+                        <a href="https://www.google.com" target="_blank">www.google.com</a>
+                    </li>
+                    <li>
+                        <span class="title github">Layout Uber</span>
+                        <a href="https://www.google.com" target="_blank">www.google.com</a>
+                    </li>
+                    <li>
+                        <span class="title">Criando Front-end com React</span>
+                        <a href="https://www.google.com" target="_blank">www.google.com</a>
+                    </li>
+                </ul>
+            </div> 
+        </section>
+    </main>
 
     <script src="/assets/js/acordeon.js"></script>
 </body>
