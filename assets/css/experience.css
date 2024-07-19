@@ -1,35 +1,28 @@
-.portfolio {
+.experience {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    width: 100%;
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-.portfolio li {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    margin: 1rem 0;
-}
-
-.portfolio li .title {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin: 0;
+.experience li {
     margin-bottom: 0.5rem;
 }
 
-.portfolio li .title.github::before {
+.experience li .period {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.experience li .period::before {
     content: '';
     display: inline-block;
     width: 1.2rem;
     height: 1.2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/github.svg');
+    background-image: url('/assets/img/icons/calendar.svg');
     margin-right: 0.5rem;
 }
