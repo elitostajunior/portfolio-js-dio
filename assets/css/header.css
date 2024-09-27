@@ -31,6 +31,11 @@
     text-align: center;
 }
 
+.header .title-bold {
+    font-family: "Neue Machina", sans-serif;
+    font-weight: 600;
+}
+
 .information {
     display: flex;
     flex-direction: column;
