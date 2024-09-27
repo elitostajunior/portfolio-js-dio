@@ -1,13 +1,10 @@
 {
-    "nome": "Venilton FalvoJr",
-    "titulo": "Education Tech Lead na DIO",
-    "localidade": {
-        "cidade": "Araraquara",
-        "estado": "São Paulo",
-        "pais": "Brasil"
-    },
-    "telefone": "(16) 99721-8281",
-    "email": "venilton@dio.me",
+    "name": "Eli Tosta Junior",
+    "photo": "https://avatars.githubusercontent.com/u/89365251?v=4",
+    "job": "Junior Developer",
+    "location": "Tocantins-BR",
+    "phone": "(63) 99999-9999",
+    "email": "eli_gtj@hotmail.com",
     "skills": {
         "hardSkills": [
             {
