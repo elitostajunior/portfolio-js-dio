@@ -8,20 +8,16 @@
     "skills": {
         "hardSkills": [
             {
-                "name": "React",
-                "logo": "https://raw.githubusercontent.com/elitostajunior/portfolio-js-dio/refs/heads/master/data/imgs/react.png"
+                "nome": "Android",
+                "logo": "TODO"
             },
             {
-                "name": "JavaScript",
-                "logo": "https://raw.githubusercontent.com/elitostajunior/portfolio-js-dio/refs/heads/master/data/imgs/js.png"
+                "nome": "Java",
+                "logo": "TODO"
             },
             {
-                "name": "C#",
-                "logo": "https://raw.githubusercontent.com/elitostajunior/portfolio-js-dio/refs/heads/master/data/imgs/csharp.png"
-            },
-            {
-                "name": "GitHub",
-                "logo": "https://raw.githubusercontent.com/elitostajunior/portfolio-js-dio/refs/heads/master/data/imgs/github.png"
+                "nome": "Kotlin",
+                "logo": "TODO"
             }
         ],
         "softSkills": [
