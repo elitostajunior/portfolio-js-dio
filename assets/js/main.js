@@ -35,5 +35,6 @@ function updateHardSkills(profileData) {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
+    updateHardSkills(profileData)
 }
 )()
