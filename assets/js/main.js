@@ -45,7 +45,7 @@ function updatePortfolio(profileData) {
                 <a href="${project.url}" target="_blank">${project.url}</a>
             </li>
         `
-    })
+    }).join('')
 }
 
 (async () => {
