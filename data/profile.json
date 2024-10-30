@@ -32,18 +32,18 @@
             "Comprometimento com resultados"
         ]
     },
-    "idiomas": [
+    "languages": [
         {
-            "nome": "Português",
-            "nivel": "Nativo"
+            "language": "Português",
+            "level": "Nativo"
         },
         {
-            "nome": "Inglês",
-            "nivel": "Intermediário"
+            "language": "Inglês",
+            "level": "Básico"
         },
         {
-            "nome": "Espanhol",
-            "nivel": "Básico"
+            "language": "Espanhol",
+            "level": "Intermediário"
         }
     ],
     "educacao": [
