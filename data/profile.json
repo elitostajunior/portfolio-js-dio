@@ -63,15 +63,16 @@
             "gitHub": false
         }
     ],
-    "experiencias": [
+    "professionalExperience": [
         {
-            "nome": "Education Tech Lead ",
-            "descricao": "",
-            "instituicao": "Digital Innovation One (DIO)",
-            "periodo": {
-                "inicio": "03/2021",
-                "fim": "Atualmente"
-            }
+            "name": "Front-end Developer  / dio.me",
+            "period": "Jan 2020 - Current",
+            "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+        },
+        {
+            "name": "Front-end Developer  / Philips",
+            "period": "Jan 2017 - 2020",
+            "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
         }
     ]
 }
